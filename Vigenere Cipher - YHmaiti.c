@@ -1,4 +1,4 @@
-
+// This program was made by Yohan Hmaiti, GitHub: YHmaiti
 // pre-processor directives
 #include <stdio.h>
 #include <stdlib.h>
